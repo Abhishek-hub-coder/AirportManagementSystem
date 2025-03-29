@@ -34,3 +34,6 @@ class AirportManagement:
     def get_all_flights(self):
         """Return all flights in the system."""
         return self.flights
+
+    # Updated comment to test CI/CD workflow
+    print("Testing GitHub Actions again")
